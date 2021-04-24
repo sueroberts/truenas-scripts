@@ -3,7 +3,7 @@
 ### Parameters ###
 
 # Specify your email address here:
-email="suroberts@gmail.com"
+email="email.com"
 
 # Full path to 'smartctl' program:
 smartctl=/usr/local/sbin/smartctl
