@@ -41,7 +41,7 @@
 
 ###### User-definable Parameters
 ### Email Address
-email="email@mail.com"
+email="youremail@mail.com"
 
 ### Global table colors
 okColor="#c9ffcc"       # Hex code for color to use in SMART Status column if drives pass (default is light green, #c9ffcc)
